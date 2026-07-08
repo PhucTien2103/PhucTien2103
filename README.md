@@ -104,7 +104,7 @@ Java web e-commerce project for online shoe shopping, order/payment handling, an
 
 **Main stack:** React, Node.js/Express, MongoDB, Spring Boot, Java Servlet/JSP, SQL Server
 
-**Additional exposure:** Socket.IO, VNPay integration, JWT auth, OTP email, Docker basics, AWS/cloud fundamentals, Git/GitHub team workflow
+**Additional exposure:** Socket.IO, VNPay integration, JWT auth, OTP email, Cypress testing, Docker basics, AWS/cloud fundamentals, Git/GitHub team workflow
 
 ### Languages
 
@@ -137,6 +137,7 @@ Java web e-commerce project for online shoe shopping, order/payment handling, an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
