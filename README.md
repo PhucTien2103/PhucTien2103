@@ -1,4 +1,6 @@
-# Pham Phuc Tien **Fullstack Web Developer · Year 3 Student · Open to Internship**
+# Pham Phuc Tien
+
+**Fullstack Web Developer · Year 3 Student · Open to Internship**
 
 Entry-level developer focused on building practical web applications with authentication, role-based access control, payment/order workflows, admin dashboards, and database-backed business features.
 
