@@ -168,12 +168,12 @@ Amazon Web Services Training and Certification
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhucTien2103&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Pham Phuc Tien's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucTien2103&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhucTien2103&theme=github_dark" alt="Pham Phuc Tien's GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhucTien2103&theme=github_dark" alt="Most Used Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PhucTien2103&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhucTien2103&theme=github_dark" alt="Contribution Graph" />
 </p>
 
 ---
