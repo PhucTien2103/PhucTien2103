@@ -180,5 +180,5 @@ Amazon Web Services Training and Certification
 
 ## Contact
 
-[tien05.work@gmail.com](mailto:tien05.work@gmail.com) · [GitHub](https://github.com/PhucTien2103) · [LinkedIn](https://www.linkedin.com/in/ph%C3%BAc-ti%E1%BA%BFn-ph%E1%BA%A1m-b6a0ab408/) · [Facebook](https://www.facebook.com/PhucTien2103/) · [CV](https://phuctien2103.github.io/cv/) · Thu Duc, Ho Chi Minh City, Vietnam
+[tien05.work@gmail.com](mailto:tien05.work@gmail.com) · [GitHub](https://github.com/PhucTien2103) · [LinkedIn](https://www.linkedin.com/in/tien05/) · [Facebook](https://www.facebook.com/PhucTien2103/) · [CV](https://phuctien2103.github.io/cv/) · Thu Duc, Ho Chi Minh City, Vietnam
 
